@@ -19,7 +19,7 @@ export class GameControlComponent implements OnInit {
     this.interval = setInterval(() => {
       this.intervalFired.emit(this.lastNumber + 1);
       this.lastNumber++;
-    }, 1000);
+    }, 1000); 
   }
 
   onPauseGame() {
