@@ -1,2 +1,2 @@
 # angular_course
-exercises concerning Angular 
+Angular exercises 
